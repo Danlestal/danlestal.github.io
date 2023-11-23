@@ -1,1 +1,23 @@
-/* Custom CSS styles */
+.menu {
+    font-size: 30px;
+    font-family: "Amandine";
+}
+
+.welcome-title{
+    font-size: 50px;
+    text-align: center;
+    font-family: "Amandine";
+    padding-top: 20px
+}
+
+
+.content h2 {
+    font-size: 40px;
+    margin-bottom: 0.5714em;
+    color: #030303 !important;
+}
+
+.footer {
+    background-color: var(--dark);
+    color: rgb(78, 75, 75);
+}
